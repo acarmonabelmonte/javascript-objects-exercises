@@ -1,2 +1,3 @@
-# JavaScript Objects Exercises
-Exercises to practice with Object Syntax in JavaScript.
+# JavaScript Objects & Iterators Exercises
+
+Exercises to practice with Objects & Iterators Syntax in JavaScript.
